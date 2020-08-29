@@ -5,6 +5,11 @@ date: 2020-08-29 07:22:18
 tags:
 ---
 
+{% blockquote @DevDocs https://twitter.com/devdocs/status/356095192085962752 %}
+NEW: DevDocs now comes with syntax highlighting. http://devdocs.io
+{% endblockquote %}
+
+
 {% blockquote [author[, source]] [link] [source_link_title] %}
 content
 {% endblockquote %}
